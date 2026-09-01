@@ -65,13 +65,6 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-## İstatistikler
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tolguner&show_icons=true&hide_border=true&theme=default&locale=tr" alt="GitHub istatistikleri">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolguner&layout=compact&hide_border=true&theme=default&locale=tr" alt="En çok kullanılan diller">
-</p>
-
 ---
 
 <details>
