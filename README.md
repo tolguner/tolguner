@@ -15,11 +15,11 @@
 
 ## Hakkımda
 
-- 🎓 **Işık Üniversitesi — Yönetim Bilişim Sistemleri**. Lisans bitirme projem, mikroservis mimarisiyle kurulmuş bütünleşik bir kampüs platformu: [Işık CampusOS](https://github.com/tolguner/IsikCampusOS).
-- 🧩 Ağırlıklı çalıştığım yer **Spring Boot + React/Next.js** ekseninde full-stack geliştirme.
-- ⛓️ Yanında **Sui Move** ve Solidity ile blokzincir uygulamaları geliştiriyorum — testnet'e gerçekten yayınlanmış sözleşmelerle.
-- 📊 Python tarafında **pandas / scikit-learn / statsmodels** ile veri analizi ve regresyon çalışmaları yapıyorum.
-- 📫 Ulaşmak için: **tolgaolguner1@gmail.com** · [LinkedIn](https://www.linkedin.com/in/tolga-olguner-75616a1b5/)
+Işık Üniversitesi **Yönetim Bilişim Sistemleri** öğrencisiyim. Ağırlıklı olarak
+**Spring Boot** ve **Next.js** ile full-stack geliştiriyorum; yanında Sui Move ile
+blokzincir, Python ile veri analizi projeleri yapıyorum.
+
+📫 **tolgaolguner1@gmail.com** · [LinkedIn](https://www.linkedin.com/in/tolga-olguner-75616a1b5/)
 
 ## Öne çıkan projeler
 
@@ -73,13 +73,11 @@
 
 <br>
 
-**Hi, I'm Tolga** — a Management Information Systems student at Işık University (İstanbul) and a full-stack developer.
+**Hi, I'm Tolga** — a Management Information Systems student at Işık University
+(İstanbul). Mostly full-stack work with **Spring Boot** and **Next.js**, alongside
+blockchain projects in Sui Move and data analysis in Python.
 
-- 🧩 Mostly **Spring Boot + React/Next.js** full-stack work.
-- ⛓️ Blockchain applications with **Sui Move** and Solidity, with contracts actually deployed to testnet.
-- 📊 Data analysis and regression work in Python with **pandas / scikit-learn / statsmodels**.
-- 🎓 My senior capstone is a microservice-based campus platform: [Işık CampusOS](https://github.com/tolguner/IsikCampusOS).
-- 📫 Reach me at **tolgaolguner1@gmail.com** · [LinkedIn](https://www.linkedin.com/in/tolga-olguner-75616a1b5/)
+📫 **tolgaolguner1@gmail.com** · [LinkedIn](https://www.linkedin.com/in/tolga-olguner-75616a1b5/)
 
 **Selected projects**
 
