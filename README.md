@@ -7,6 +7,7 @@
 
 <p align="center">
   <a href="mailto:tolgaolguner1@gmail.com"><img src="https://img.shields.io/badge/E--posta-tolgaolguner1@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="E-posta"></a>
+  <a href="https://www.linkedin.com/in/tolga-olguner-75616a1b5/"><img src="https://img.shields.io/badge/LinkedIn-Tolga%20Olguner-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <img src="https://komarev.com/ghpvc/?username=tolguner&style=flat-square&color=blue" alt="Profil görüntülenme">
 </p>
 
@@ -18,7 +19,7 @@
 - 🧩 Ağırlıklı çalıştığım yer **Spring Boot + React/Next.js** ekseninde full-stack geliştirme.
 - ⛓️ Yanında **Sui Move** ve Solidity ile blokzincir uygulamaları geliştiriyorum — testnet'e gerçekten yayınlanmış sözleşmelerle.
 - 📊 Python tarafında **pandas / scikit-learn / statsmodels** ile veri analizi ve regresyon çalışmaları yapıyorum.
-- 📫 Ulaşmak için: **tolgaolguner1@gmail.com**
+- 📫 Ulaşmak için: **tolgaolguner1@gmail.com** · [LinkedIn](https://www.linkedin.com/in/tolga-olguner-75616a1b5/)
 
 ## Öne çıkan projeler
 
@@ -78,7 +79,7 @@
 - ⛓️ Blockchain applications with **Sui Move** and Solidity, with contracts actually deployed to testnet.
 - 📊 Data analysis and regression work in Python with **pandas / scikit-learn / statsmodels**.
 - 🎓 My senior capstone is a microservice-based campus platform: [Işık CampusOS](https://github.com/tolguner/IsikCampusOS).
-- 📫 Reach me at **tolgaolguner1@gmail.com**
+- 📫 Reach me at **tolgaolguner1@gmail.com** · [LinkedIn](https://www.linkedin.com/in/tolga-olguner-75616a1b5/)
 
 **Selected projects**
 
