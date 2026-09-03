@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="mailto:tolgaolguner1@gmail.com"><img src="https://img.shields.io/badge/E--posta-tolgaolguner1@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="E-posta"></a>
-  <a href="https://www.linkedin.com/in/tolguner/"><img src="https://img.shields.io/badge/LinkedIn-Tolga%20Olguner-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/tolga-olguner-75616a1b5/"><img src="https://img.shields.io/badge/LinkedIn-Tolga%20Olguner-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <img src="https://komarev.com/ghpvc/?username=tolguner&style=flat-square&color=blue" alt="Profil görüntülenme">
 </p>
 
@@ -19,7 +19,7 @@ Işık Üniversitesi **Yönetim Bilişim Sistemleri** öğrencisiyim. Ağırlık
 **Spring Boot** ve **Next.js** ile full-stack geliştiriyorum; yanında Sui Move ile
 blokzincir, Python ile veri analizi projeleri yapıyorum.
 
-📫 **tolgaolguner1@gmail.com** · [LinkedIn](https://www.linkedin.com/in/tolguner/)
+📫 **tolgaolguner1@gmail.com** · [LinkedIn](https://www.linkedin.com/in/tolga-olguner-75616a1b5/)
 
 ## Öne çıkan projeler
 
@@ -77,7 +77,7 @@ blokzincir, Python ile veri analizi projeleri yapıyorum.
 (İstanbul). Mostly full-stack work with **Spring Boot** and **Next.js**, alongside
 blockchain projects in Sui Move and data analysis in Python.
 
-📫 **tolgaolguner1@gmail.com** · [LinkedIn](https://www.linkedin.com/in/tolguner/)
+📫 **tolgaolguner1@gmail.com** · [LinkedIn](https://www.linkedin.com/in/tolga-olguner-75616a1b5/)
 
 **Selected projects**
 
