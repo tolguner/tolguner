@@ -1,11 +1,13 @@
 <h1 align="center">Merhaba, ben Tolga 👋</h1>
 
 <p align="center">
-  <b>Yönetim Bilişim Sistemleri öğrencisi · Full-stack geliştirici</b><br>
-  İstanbul, Türkiye
+  <b>Yönetim Bilişim Sistemleri öğrencisi · Işık Üniversitesi</b><br>
+  TÜBİTAK 2209-A proje yürütücüsü · IT&amp;MIS Kulübü eski başkanı<br>
+  İstanbul / Bursa
 </p>
 
 <p align="center">
+  <a href="http://tolguner.me"><img src="https://img.shields.io/badge/Portfolyo-tolguner.me-4F7CFF?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolyo"></a>
   <a href="mailto:tolgaolguner@gmail.com"><img src="https://img.shields.io/badge/E--posta-tolgaolguner@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="E-posta"></a>
   <a href="https://www.linkedin.com/in/tolguner/"><img src="https://img.shields.io/badge/LinkedIn-Tolga%20Olguner-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <img src="https://komarev.com/ghpvc/?username=tolguner&style=flat-square&color=blue" alt="Profil görüntülenme">
@@ -15,22 +17,41 @@
 
 ## Hakkımda
 
-Işık Üniversitesi **Yönetim Bilişim Sistemleri** öğrencisiyim. Ağırlıklı olarak
-**Spring Boot** ve **Next.js** ile full-stack geliştiriyorum; yanında Sui Move ile
-blokzincir, Python ile veri analizi projeleri yapıyorum.
+Işık Üniversitesi **Yönetim Bilişim Sistemleri** öğrencisiyim. **Spring Boot** ve
+**React** ile web uygulamaları geliştiriyorum; yanında Sui Move ile blokzincir,
+Python ile veri analizi projeleri yapıyorum.
 
-📫 **tolgaolguner@gmail.com** · [LinkedIn](https://www.linkedin.com/in/tolguner/)
+Yazdığım kod kadar bir araya getirdiğim ekipler de bu yolun parçası: iki yıl
+**IT&MIS Kulübü**'nün başkanlığını yürüttüm, **Işık Run Club**'ın kurucuları
+arasında yer aldım ve üniversitenin kurumsal organizasyonlarında görevli öğrenci
+ekibini koordine ettim.
+
+🌐 **[tolguner.me](http://tolguner.me)** · 📫 **tolgaolguner@gmail.com** · [LinkedIn](https://www.linkedin.com/in/tolguner/)
+
+## Araştırma
+
+**TÜBİTAK 2209-A** Üniversite Öğrencileri Araştırma Projeleri Destekleme Programı
+kapsamında kabul edilen ve hibe desteği almaya hak kazanan bir araştırma projesinin
+yürütücüsüyüm.
+
+> *Üniversite Öğrencilerinin Dijital Davranışlarının Akademik Başarıları Üzerinde
+> Etkisi: Ekran Süresi, Uyku, Stres ve Farkındalığın Rolünün Veri Bilimi
+> Yaklaşımıyla İncelenmesi*
+
+Dört kişilik ekiple yürütülüyor; danışman Dr. Habibe Aktay. Proje şu an veri
+toplama aşamasında.
 
 ## Öne çıkan projeler
 
 | Proje | Ne yapıyor | Teknolojiler |
 |---|---|---|
-| **[Işık CampusOS](https://github.com/tolguner/IsikCampusOS)** | Kulüp/etkinlik yönetimi, tesis rezervasyonu, yemek siparişi ve paylaşımlı yolculuğu tek kimlik altında birleştiren kampüs platformu | Spring Boot · React · Kafka · PostgreSQL · Docker |
+| **[Işık CampusOS](https://github.com/tolguner/IsikCampusOS)** | Kulüp/etkinlik yönetimi, tesis rezervasyonu, yemek siparişi ve paylaşımlı yolculuğu tek kimlik altında birleştiren kampüs platformu (bitirme projesi) | Spring Boot · React · Kafka · PostgreSQL · Docker |
+| **[tolguner.me](https://github.com/tolguner/tolguner.github.io)** | Scroll'a bağlı 3B deneyimle kurulmuş kişisel portfolyo sitesi; GitHub Pages üzerinde statik yayın | Next.js · TypeScript · Three.js · GSAP |
 | **[SiteDAO](https://github.com/tolguner/SiteDAO)** | Apartman yönetimini zincire taşıyan dApp: NFT daire sahipliği, devredilemez kiracı kartı, oylamayla onaylanan ortak harcamalar | Sui Move · Next.js · zkLogin |
 | **[EventChain](https://github.com/tolguner/EventChain)** | Cüzdanla giriş, QR ile yoklama ve Soulbound NFT katılım sertifikası veren etkinlik platformu | Next.js · Sui Move · Solidity · Prisma |
 | **[GuardPi](https://github.com/tolguner/GuardPi)** | Raspberry Pi üzerinde PIR, DHT22, MQ-2, RFID ve kamerayı tek panelde toplayan akıllı güvenlik sistemi | Python · Flask · Raspberry Pi |
 | **[İstanbul Konut Fiyat Tahmini](https://github.com/tolguner/Istanbul-Konut-Fiyat-Tahmini)** | Satılık konut ilanlarından fiyat tahmini — veri temizleme, EDA, öznitelik mühendisliği ve Random Forest | Python · pandas · scikit-learn |
-| **[Veteriner Yönetim Sistemi](https://github.com/tolguner/Veterinary-Management-System)** | Klinik yönetimi için JWT korumalı REST API ve React arayüzü (ekip projesi) | Spring Boot · React · MySQL |
+| **[Veteriner Yönetim Sistemi](https://github.com/tolguner/Veterinary-Management-System)** | Klinik yönetimi için JWT korumalı REST API ve React arayüzü (ekip projesi, proje koordinatörü) | Spring Boot · React · MySQL |
 
 ## Teknolojiler
 
@@ -58,6 +79,7 @@ blokzincir, Python ile veri analizi projeleri yapıyorum.
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
 **Veri**
@@ -74,21 +96,35 @@ blokzincir, Python ile veri analizi projeleri yapıyorum.
 <br>
 
 **Hi, I'm Tolga** — a Management Information Systems student at Işık University
-(İstanbul). Mostly full-stack work with **Spring Boot** and **Next.js**, alongside
+(Istanbul). I build web applications with **Spring Boot** and **React**, alongside
 blockchain projects in Sui Move and data analysis in Python.
 
-📫 **tolgaolguner@gmail.com** · [LinkedIn](https://www.linkedin.com/in/tolguner/)
+The teams I bring together are as much a part of this as the code I write: I served
+as president of the **IT&MIS Club** for two years, became one of the founders of
+**Işık Run Club**, and coordinated the student staff team at the university's
+corporate events.
+
+🌐 **[tolguner.me](http://tolguner.me)** · 📫 **tolgaolguner@gmail.com** · [LinkedIn](https://www.linkedin.com/in/tolguner/)
+
+**Research**
+
+I lead a research project accepted into the **TÜBİTAK 2209-A** Undergraduate
+Research Projects Support Program, which was awarded a grant: *The Effect of
+University Students' Digital Behaviors on Academic Achievement: Examining the Role
+of Screen Time, Sleep, Stress and Awareness through a Data Science Approach.*
+Four-person team, advised by Dr. Habibe Aktay; currently in the data collection phase.
 
 **Selected projects**
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[Işık CampusOS](https://github.com/tolguner/IsikCampusOS)** | Campus platform unifying club/event management, facility booking, food ordering and ride sharing under one identity | Spring Boot · React · Kafka · PostgreSQL · Docker |
+| **[Işık CampusOS](https://github.com/tolguner/IsikCampusOS)** | Campus platform unifying club/event management, facility booking, food ordering and ride sharing under one identity (capstone) | Spring Boot · React · Kafka · PostgreSQL · Docker |
+| **[tolguner.me](https://github.com/tolguner/tolguner.github.io)** | Personal portfolio built as a scroll-driven 3D experience, statically hosted on GitHub Pages | Next.js · TypeScript · Three.js · GSAP |
 | **[SiteDAO](https://github.com/tolguner/SiteDAO)** | Decentralized building management: NFT-based unit ownership, non-transferable tenant pass, expenses approved by on-chain vote | Sui Move · Next.js · zkLogin |
 | **[EventChain](https://github.com/tolguner/EventChain)** | Event platform with wallet login, QR check-in and soulbound NFT attendance certificates | Next.js · Sui Move · Solidity · Prisma |
 | **[GuardPi](https://github.com/tolguner/GuardPi)** | Raspberry Pi security system combining PIR, DHT22, MQ-2, RFID and camera in a single dashboard | Python · Flask · Raspberry Pi |
 | **[Istanbul House Price Prediction](https://github.com/tolguner/Istanbul-Konut-Fiyat-Tahmini)** | Price prediction from listing data — cleaning, EDA, feature engineering and Random Forest | Python · pandas · scikit-learn |
-| **[Veterinary Management System](https://github.com/tolguner/Veterinary-Management-System)** | JWT-secured REST API and React front end for clinic management (team project) | Spring Boot · React · MySQL |
+| **[Veterinary Management System](https://github.com/tolguner/Veterinary-Management-System)** | JWT-secured REST API and React front end for clinic management (team project, project coordinator) | Spring Boot · React · MySQL |
 
 Most repository READMEs are written in Turkish.
 
