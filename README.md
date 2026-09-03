@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="http://tolguner.me"><img src="https://img.shields.io/badge/Portfolyo-tolguner.me-4F7CFF?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolyo"></a>
+  <a href="https://tolguner.me"><img src="https://img.shields.io/badge/Portfolyo-tolguner.me-4F7CFF?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolyo"></a>
   <a href="mailto:tolgaolguner@gmail.com"><img src="https://img.shields.io/badge/E--posta-tolgaolguner@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="E-posta"></a>
   <a href="https://www.linkedin.com/in/tolguner/"><img src="https://img.shields.io/badge/LinkedIn-Tolga%20Olguner-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <img src="https://komarev.com/ghpvc/?username=tolguner&style=flat-square&color=blue" alt="Profil görüntülenme">
@@ -26,7 +26,7 @@ Yazdığım kod kadar bir araya getirdiğim ekipler de bu yolun parçası: iki y
 arasında yer aldım ve üniversitenin kurumsal organizasyonlarında görevli öğrenci
 ekibini koordine ettim.
 
-🌐 **[tolguner.me](http://tolguner.me)** · 📫 **tolgaolguner@gmail.com** · [LinkedIn](https://www.linkedin.com/in/tolguner/)
+🌐 **[tolguner.me](https://tolguner.me)** · 📫 **tolgaolguner@gmail.com** · [LinkedIn](https://www.linkedin.com/in/tolguner/)
 
 ## Araştırma
 
@@ -104,7 +104,7 @@ as president of the **IT&MIS Club** for two years, became one of the founders of
 **Işık Run Club**, and coordinated the student staff team at the university's
 corporate events.
 
-🌐 **[tolguner.me](http://tolguner.me)** · 📫 **tolgaolguner@gmail.com** · [LinkedIn](https://www.linkedin.com/in/tolguner/)
+🌐 **[tolguner.me](https://tolguner.me)** · 📫 **tolgaolguner@gmail.com** · [LinkedIn](https://www.linkedin.com/in/tolguner/)
 
 **Research**
 
